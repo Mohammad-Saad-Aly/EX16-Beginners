@@ -55,6 +55,10 @@ function clr(){
     document.getElementById('inp').value = ''
 }
 
+function del(){
+    var h = a
+    document.getElementById('inp').value = h.pop(a)
+}
 
 
 
